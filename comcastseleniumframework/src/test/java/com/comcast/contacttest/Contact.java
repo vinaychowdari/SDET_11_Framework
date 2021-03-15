@@ -7,4 +7,8 @@ public class Contact {
 	public void Contact() {
 		
 	}
+     @Test
+ 	public void Contact1() {
+ 		
+ 	}
 }

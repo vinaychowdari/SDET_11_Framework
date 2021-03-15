@@ -9,4 +9,8 @@ public class Contact {
     	 
 		
 	}
+     @Test
+ 	public void Contact1() {
+ 		
+ 	}
 }

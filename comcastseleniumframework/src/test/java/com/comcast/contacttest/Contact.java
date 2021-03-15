@@ -4,7 +4,9 @@ import org.testng.annotations.Test;
 
 public class Contact {
      @Test
-	public void Contact() {
+	public void Contact(){
+    	 System.out.println("vinay");
+    	 
 		
 	}
 }

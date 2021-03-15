@@ -1,5 +1,10 @@
 package com.comcast.contacttest;
 
-public class Contact {
+import org.testng.annotations.Test;
 
+public class Contact {
+     @Test
+	public void Contact() {
+		
+	}
 }
